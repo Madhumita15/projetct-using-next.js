@@ -3,7 +3,7 @@
 export default function Home() {
   
   function trishita(){
-    console.log("hello")
+    console.log("hello Madumita")
   }
   return (
     <>
