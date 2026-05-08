@@ -1,6 +1,10 @@
 
 
 export default function Home() {
+  
+  function trishita(){
+    console.log("hello")
+  }
   return (
     <>
     <h1>Git Branch</h1>
